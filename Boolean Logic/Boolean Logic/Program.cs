@@ -33,7 +33,7 @@ namespace Boolean_operators
             Console.WriteLine("What is your age?");
             int age = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Have you ever had a DUI?");
+            Console.WriteLine("Have you ever had a DUI? Please enter true or false.");
             bool dui = Convert.ToBoolean(Console.ReadLine());
 
             Console.WriteLine("How many speeding tickets do you have?");
