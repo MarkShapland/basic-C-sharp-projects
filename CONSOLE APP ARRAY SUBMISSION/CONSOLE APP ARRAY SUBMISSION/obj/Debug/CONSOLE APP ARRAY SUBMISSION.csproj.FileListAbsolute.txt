@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\bin\Debug\CONSOLE APP ARRAY SUBMISSION.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\bin\Debug\CONSOLE APP ARRAY SUBMISSION.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\bin\Debug\CONSOLE APP ARRAY SUBMISSION.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\obj\Debug\CONSOLE APP ARRAY SUBMISSION.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\obj\Debug\CONSOLE APP ARRAY SUBMISSION.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\obj\Debug\CONSOLE APP ARRAY SUBMISSION.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP ARRAY SUBMISSION\CONSOLE APP ARRAY SUBMISSION\obj\Debug\CONSOLE APP ARRAY SUBMISSION.pdb
