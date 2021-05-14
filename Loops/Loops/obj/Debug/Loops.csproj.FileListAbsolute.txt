@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Loops\Loops\obj\Debug\Loops.pdb

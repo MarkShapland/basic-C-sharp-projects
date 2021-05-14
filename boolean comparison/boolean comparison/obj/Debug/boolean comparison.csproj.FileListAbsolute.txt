@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\bin\Debug\boolean comparison.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\bin\Debug\boolean comparison.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\bin\Debug\boolean comparison.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\obj\Debug\boolean comparison.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\obj\Debug\boolean comparison.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\obj\Debug\boolean comparison.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\boolean comparison\boolean comparison\obj\Debug\boolean comparison.pdb

@@ -1,0 +1,2 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Switch Challenge\Switch Challenge\obj\Debug\Switch Challenge.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Switch Challenge\Switch Challenge\obj\Debug\Switch Challenge.csproj.CoreCompileInputs.cache
