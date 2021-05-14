@@ -1,7 +1,0 @@
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\bin\Debug\Income Comparison program.exe.config
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\bin\Debug\Income Comparison program.exe
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\bin\Debug\Income Comparison program.pdb
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\obj\Debug\Income Comparison program.csprojAssemblyReference.cache
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\obj\Debug\Income Comparison program.csproj.CoreCompileInputs.cache
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\obj\Debug\Income Comparison program.exe
-C:\Users\mark_\source\repos\Income Comparison program\Income Comparison program\obj\Debug\Income Comparison program.pdb

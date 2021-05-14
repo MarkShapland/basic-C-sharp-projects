@@ -1,0 +1,13 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\bin\Debug\netcoreapp3.1\Tenerary operator challenge.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\bin\Debug\netcoreapp3.1\Tenerary operator challenge.deps.json
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\bin\Debug\netcoreapp3.1\Tenerary operator challenge.runtimeconfig.json
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\bin\Debug\netcoreapp3.1\Tenerary operator challenge.runtimeconfig.dev.json
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\bin\Debug\netcoreapp3.1\Tenerary operator challenge.dll
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\bin\Debug\netcoreapp3.1\Tenerary operator challenge.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.AssemblyInfoInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.AssemblyInfo.cs
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.dll
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Tenerary operator challenge\Tenerary operator challenge\obj\Debug\netcoreapp3.1\Tenerary operator challenge.genruntimeconfig.cache
