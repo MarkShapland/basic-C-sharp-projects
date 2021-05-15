@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\obj\Debug\CONSOLE APP.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\obj\Debug\CONSOLE APP.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\bin\Debug\CONSOLE APP.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\bin\Debug\CONSOLE APP.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\bin\Debug\CONSOLE APP.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\obj\Debug\CONSOLE APP.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\CONSOLE APP\CONSOLE APP\obj\Debug\CONSOLE APP.pdb
