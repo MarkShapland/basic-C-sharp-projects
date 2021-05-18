@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\obj\Debug\Main Method  assignment.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\obj\Debug\Main Method  assignment.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\bin\Debug\Main Method  assignment.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\bin\Debug\Main Method  assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\bin\Debug\Main Method  assignment.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\obj\Debug\Main Method  assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Main Method  assignment\Main Method  assignment\obj\Debug\Main Method  assignment.pdb
