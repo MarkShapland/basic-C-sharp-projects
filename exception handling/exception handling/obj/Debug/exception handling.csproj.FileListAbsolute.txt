@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\bin\Debug\exception handling.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\bin\Debug\exception handling.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\bin\Debug\exception handling.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\obj\Debug\exception handling.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\obj\Debug\exception handling.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\obj\Debug\exception handling.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\exception handling\exception handling\obj\Debug\exception handling.pdb
