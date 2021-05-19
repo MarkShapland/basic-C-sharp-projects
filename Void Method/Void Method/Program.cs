@@ -12,7 +12,8 @@ namespace Void_Method
         {
             Void_Method void1 = new Void_Method();
 
-            void1.voidAssignment(12, 15);//passing in two integers
+            void1.voidAssignment(number1: 12, number2: 15);//passing in two integers
+            
             Console.ReadLine();
         }
     }
