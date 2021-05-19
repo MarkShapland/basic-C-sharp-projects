@@ -8,10 +8,15 @@ namespace Main_method_assignment_2
 {
     class math
     {
-        public int  AddNumber(int number1,  int number2 )
+
+
+        public static int AddNumber(int number1, int number2 =25)
         {
-            int total = number1 + number2;
-            return total;
+           
+                {
+                    int total = number1 + number2;
+                return total;
+                }
         }
 
     }
