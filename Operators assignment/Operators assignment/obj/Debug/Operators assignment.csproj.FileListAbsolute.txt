@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\obj\Debug\Operators assignment.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\obj\Debug\Operators assignment.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\bin\Debug\Operators assignment.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\bin\Debug\Operators assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\bin\Debug\Operators assignment.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\obj\Debug\Operators assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Operators assignment\Operators assignment\obj\Debug\Operators assignment.pdb
