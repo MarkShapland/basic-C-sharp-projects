@@ -33,7 +33,7 @@ namespace TwentyOne
         }
         public List<Card> Cards { get; set; }
 
-        public void Shuffle(int times = 1)  //public makes it accesable everywhere, static so we don't have to create an object, deck type of data returning,//shuffle is name of function
+        public void Shuffle(int times = 1)  //public makes it accessable everywhere, static so we don't have to create an object, deck type of data returning,//shuffle is name of function
         {
             for (int i = 0; i < times; i++)
             {
