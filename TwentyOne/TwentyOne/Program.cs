@@ -10,16 +10,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)// string array 
         {
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-            Game game = new TwentyOneGame(); //polymorphism
-            game.Players = new List<Player>(); //instantiated list  
-            Player player = new Player();
-            player.Name = "Jesse";
-            game = game + player; //method that returns a game and a player
-            game -= player;//game = game - player;
+           
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -32,8 +23,21 @@ namespace TwentyOne
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
+        
+        
 
-       
+        //Game game = new TwentyOneGame(); //polymorphism
+        //game.Players = new List<Player>(); //instantiated list  
+        //Player player = new Player();
+        //player.Name = "Jesse";
+        //game = game + player; //method that returns a game and a player
+        //game -= player;//game = game - player;
+
+        //TwentyOneGame game = new TwentyOneGame();
+        //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+        //game.ListPlayers();
+        //Console.ReadLine();
+
 
         //public static Deck Shuffle(Deck deck, int times)
         //{
@@ -46,6 +50,6 @@ namespace TwentyOne
         //}
 
 
-    }                               
+    }
 }
 

@@ -11,22 +11,15 @@ namespace TwentyOne
         public Deck()
         {  
             Cards = new List<Card>();  // instantiates card as an empty list of Cards, constructor
-            //creates two lists and instantiates with values
-            List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamond", "Spades" };
-            List<string> Faces = new List<string>()
+                                        //creates two lists and instantiates with values
+          for (int i = 0; i<13; i++)
             {
-                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
-                "Ten", "Jack", "Queen", "King", "Ace"
-            };
-
-            foreach (string face in Faces)
-            {
-                foreach (string suit in Suits)
+                for(int j = 0; j< 4; j++)
                 {
-                    Card card = new Card(); // variable card only exists in each loop
-                    card.Suit = suit; //assigns suit property
-                    card.Face = face; // assigns face property
-                    Cards.Add(card); // adds card to Cards list
+                    Card card = new Card();
+                    card.Face = (Face)i; //casting to face 
+                    card.Suit = (Suit)j; //casting to suit
+                    Cards.Add(card);
                 }
             }
             
@@ -51,4 +44,21 @@ namespace TwentyOne
             
         }
     }
+    //List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamond", "Spades" };
+    //List<string> Faces = new List<string>()
+    //        {
+    //            "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
+    //            "Ten", "Jack", "Queen", "King", "Ace"
+    //        };
+
+    //        foreach (string face in Faces)
+    //        {
+    //            foreach (string suit in Suits)
+    //            {
+    //                Card card = new Card(); // variable card only exists in each loop
+    //card.Suit = suit; //assigns suit property
+    //                card.Face = face; // assigns face property
+    //                Cards.Add(card); // adds card to Cards list
+    //            }
+    //        }
 }
