@@ -10,6 +10,7 @@ namespace TwentyOne
     {
         static void Main(string[] args)// string array 
         {
+           
             Card card1 = new Card();
             Card card2 = card1;
             card1.Face = Face.Eight;

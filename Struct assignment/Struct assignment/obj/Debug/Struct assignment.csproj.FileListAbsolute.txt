@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\bin\Debug\Struct assignment.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\bin\Debug\Struct assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\bin\Debug\Struct assignment.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\obj\Debug\Struct assignment.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\obj\Debug\Struct assignment.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\obj\Debug\Struct assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Struct assignment\Struct assignment\obj\Debug\Struct assignment.pdb
