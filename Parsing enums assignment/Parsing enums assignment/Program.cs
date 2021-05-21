@@ -10,13 +10,13 @@ namespace Parsing_enums_assignment
     {
         public enum Days
         {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
+            monday,
+            tuesday,
+            wednesday,
+            thursday,
+            friday,
+            saturday,
+            sunday
         }
 
 
