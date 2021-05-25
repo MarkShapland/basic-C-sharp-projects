@@ -20,7 +20,9 @@ namespace TwentyOne
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\mark_\logs\logs.txt", true))//takes argument true /memory gets cleaned up when done
             {
+                file.WriteLine(DateTime.Now);// adds timestamp to file
                 file.WriteLine(card); //writes this to the file
+               
             }
                 Deck.Cards.RemoveAt(0); // removeAt is a method to pass in an index of where you want to remove.
         }

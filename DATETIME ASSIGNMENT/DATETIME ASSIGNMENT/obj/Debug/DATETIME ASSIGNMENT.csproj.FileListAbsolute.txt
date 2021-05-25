@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\bin\Debug\DATETIME ASSIGNMENT.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\bin\Debug\DATETIME ASSIGNMENT.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\bin\Debug\DATETIME ASSIGNMENT.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\obj\Debug\DATETIME ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\obj\Debug\DATETIME ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\obj\Debug\DATETIME ASSIGNMENT.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\DATETIME ASSIGNMENT\DATETIME ASSIGNMENT\obj\Debug\DATETIME ASSIGNMENT.pdb

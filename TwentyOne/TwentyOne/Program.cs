@@ -13,8 +13,8 @@ namespace TwentyOne
         static void Main(string[] args)// string array 
 
         {
+
            
-           //string text = File.ReadAllText(@"C:\Users\mark_\logs\logs.txt");
 
             Console.WriteLine("Grand Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
