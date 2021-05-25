@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Casino;
+using Casino.TwentyOne;
 using System.IO;
 
 namespace TwentyOne
@@ -13,10 +11,11 @@ namespace TwentyOne
         static void Main(string[] args)// string array 
 
         {
+            const string casinoName = "Grand Hotel and Casino";
 
-           
+            
 
-            Console.WriteLine("Grand Hotel and Casino. Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
@@ -25,9 +24,15 @@ namespace TwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank); // new player object and initialize him with name and how much money he brought
-                Game game = new TwentyOneGame();  // polymorphism exposes overloaded operators
+                player.Id = Guid.NewGuid();// creates nuw GUID and saves their name to a file
+                using (StreamWriter file = new StreamWriter(@"C:\Users\mark_\logs\logs.txt", true))// logs user id
+                {
+                    file.WriteLine(player.Id);
+                }
+
+                    Game game = new TwentyOneGame();  // polymorphism exposes overloaded operators
                 game += player;// adds player
-                player.isActivelyPlaying = true;
+                player.isActivelyPlaying = true; //creates new GUID for each player so we can track player
                 while (player.isActivelyPlaying && player.Balance >0) // keeps player in the while loop
                 {
                     game.Play();

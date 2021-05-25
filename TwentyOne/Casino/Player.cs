@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
      public class Player
     {
+        public Player(string name) : this(name, 100) //assign name to name and provide beginning balance
+        {
+        }
         public Player(string name, int beginningBalance) //constructor with two parameters name ,beginningBalance
         {
             Hand = new List<Card>(); // initialize list
@@ -17,11 +20,11 @@ namespace TwentyOne
         // Properties in the class 
         private List<Card> _hand = new List<Card>();
         public List<Card> Hand { get { return _hand; } set { _hand = value; } } //properties of the class Player
-        public int  Balance { get; set; }   
+        public int  Balance { get; set; }    
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; } 
         public bool Stay { get; set; }
-        
+        public Guid Id { get; set; }
         public bool Bet(int amount)//ask for player amount
         {
             if (Balance - amount < 0) //player balance is checked 

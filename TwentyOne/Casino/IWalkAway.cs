@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino.Interfaces
 {
     interface IWalkAway//all interface is public 
                        //any class that has inheritance IWalkAway must take - in the method below
