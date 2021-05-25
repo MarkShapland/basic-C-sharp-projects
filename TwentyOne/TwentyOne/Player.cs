@@ -8,18 +8,40 @@ namespace TwentyOne
 {
      public class Player
     {
-        public List<Card> Hand { get; set; } //properties of the class Player
+        public Player(string name, int beginningBalance) //constructor with two parameters name ,beginningBalance
+        {
+            Hand = new List<Card>(); // initialize list
+            Balance = beginningBalance; //initiliaze the object
+            Name = name;
+        }
+        // Properties in the class 
+        private List<Card> _hand = new List<Card>();
+        public List<Card> Hand { get { return _hand; } set { _hand = value; } } //properties of the class Player
         public int  Balance { get; set; }   
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; } 
-        // overloading an operator
-        public static Game operator+ (Game game, Player player)// adding a game and a player and returning a game.
+        public bool Stay { get; set; }
+        
+        public bool Bet(int amount)//ask for player amount
         {
-            game.Players.Add(player); //takes game and adds player
+            if (Balance - amount < 0) //player balance is checked 
+            {
+                Console.WriteLine("You do not have enough to place a bet that size.");
+                return false;
+            }
+            else
+            {
+                Balance -= amount;
+                return true;
+            }
+        }
+        public static Game operator+ (Game game, Player player)//overloading the operator, game is the return type
+        {
+            game.Players.Add(player); //takes game and adds player-polymorphism
             return game; // returns game
         }
 
-        public static Game operator- ( Game game, Player player)
+        public static Game operator- ( Game game, Player player) //overloading operator
         {
             game.Players.Remove(player); // takes game and removes player
             return game; // return game

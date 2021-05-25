@@ -8,7 +8,7 @@ namespace TwentyOne
 {
     public class Deck
     {
-        public Deck()
+        public Deck() // constructor has the default values
         {  
             Cards = new List<Card>();  // instantiates card as an empty list of Cards, constructor
                                         //creates two lists and instantiates with values
@@ -19,15 +19,15 @@ namespace TwentyOne
                     Card card = new Card();
                     card.Face = (Face)i; //casting to face 
                     card.Suit = (Suit)j; //casting to suit
-                    Cards.Add(card);
+                    Cards.Add(card); //add new card to Cards list
                 }
             }
             
         }
-        public List<Card> Cards { get; set; }
+        public List<Card> Cards { get; set; } //class with data type card with property get set
 
-        public void Shuffle(int times = 1)  //public makes it accessable everywhere, static so we don't have to create an object, deck type of data returning,//shuffle is name of function
-        {
+        public void Shuffle(int times = 1)  //shuffle Method now belongs to the object created above
+        {                                      //Deck is no longer needed because it is doing everything internally
             for (int i = 0; i < times; i++)
             {
                 List<Card> TempList = new List<Card>();
@@ -35,30 +35,14 @@ namespace TwentyOne
 
                 while (Cards.Count > 0)
                 {
-                    int randomIndex = random.Next(0,Cards.Count); // creates randomIndex to get a card from 0 to the last index
+                    int randomIndex = random.Next(0,Cards.Count); // creates randomIndex to get a card from 0 to 52
                     TempList.Add(Cards[randomIndex]);  //added to temporary list
-                    Cards.RemoveAt(randomIndex);       // removed it from cards
+                    Cards.RemoveAt(randomIndex);      //delete cards from the list of cards until there is no cards list
                 }
-               this.Cards = TempList;
+               this.Cards = TempList; //"this" is referring to itself, it's own object
             }
             
         }
     }
-    //List<string> Suits = new List<string>() { "Clubs", "Hearts", "Diamond", "Spades" };
-    //List<string> Faces = new List<string>()
-    //        {
-    //            "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine",
-    //            "Ten", "Jack", "Queen", "King", "Ace"
-    //        };
-
-    //        foreach (string face in Faces)
-    //        {
-    //            foreach (string suit in Suits)
-    //            {
-    //                Card card = new Card(); // variable card only exists in each loop
-    //card.Suit = suit; //assigns suit property
-    //                card.Face = face; // assigns face property
-    //                Cards.Add(card); // adds card to Cards list
-    //            }
-    //        }
+   
 }
