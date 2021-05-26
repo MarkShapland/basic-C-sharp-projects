@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\bin\Debug\TRY_CATCH ASSIGNMENT.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\bin\Debug\TRY_CATCH ASSIGNMENT.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\bin\Debug\TRY_CATCH ASSIGNMENT.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\obj\Debug\TRY_CATCH ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\obj\Debug\TRY_CATCH ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\obj\Debug\TRY_CATCH ASSIGNMENT.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\TRY_CATCH ASSIGNMENT\TRY_CATCH ASSIGNMENT\obj\Debug\TRY_CATCH ASSIGNMENT.pdb
