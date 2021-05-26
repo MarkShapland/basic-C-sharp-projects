@@ -1,0 +1,7 @@
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\bin\Debug\Constructor assignment.exe.config
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\bin\Debug\Constructor assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\bin\Debug\Constructor assignment.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\obj\Debug\Constructor assignment.csproj.CoreCompileInputs.cache
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\obj\Debug\Constructor assignment.exe
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\obj\Debug\Constructor assignment.pdb
+C:\Users\mark_\Documents\GitHub\basic-C-sharp-projects\Constructor assignment\Constructor assignment\obj\Debug\Constructor assignment.csprojAssemblyReference.cache
