@@ -49,42 +49,50 @@ namespace NewsletterAppMVC.Controllers
             }
         }
         public ActionResult Admin()
-        { //populated a list of newsletter signups
-            string querystring =@"SELECT Id, FirstName, LastName, EmailAddress, SocialSecurityNumber from SignUps";
-
-            List<NewsletterSignUp> signups = new List<NewsletterSignUp>(); // initialize as empty list
-
-            using (SqlConnection connection = new SqlConnection(connectionString)) //open a connection and wrap it a using statement 
+        {
+            using (NewsletterEntities db = new NewsletterEntities()) //instatitated the entity object. we now have access to the database here.
             {
-                SqlCommand command = new SqlCommand(querystring, connection); //generate a command
-
-                connection.Open(); //open connection
-
-                SqlDataReader reader = command.ExecuteReader(); //create a datareader
-                while (reader.Read()) 
-                {       //ADO.net logic
-                    var signup = new NewsletterSignUp(); // declaring a new data type
-                    signup.Id = Convert.ToInt32(reader["Id"]); //assign properties values coming from database
-                    signup.FirstName = reader["FirstName"].ToString(); //things that come from database are a different datatype  
-                    signup.LastName = reader["LastName"].ToString();
-                    signup.EmailAddress = reader["EmailAddress"].ToString();
-                    signup.SocialSecurityNumber = reader["SocialSecurityNumber"].ToString();
-                    signups.Add(signup);  //adding the list
-
-
+                var signups = db.SignUps; //property in signups represents all the records in out database.
+                var signupVMS = new List<SignupVM>();
+                foreach (var signup in signups)
+                {
+                    var signupVM = new SignupVM(); // mapping properties
+                    signupVM.FirstName = signup.FirstName;
+                    signupVM.LastName = signup.LastName;
+                    signupVM.EmailAddress = signup.EmailAddress;
+                    signupVMS.Add(signupVM);
                 }
-            }
-            var signupVMS = new List<SignupVM>();
-            foreach(var signup in signups )
-            {
-                var signupVM = new SignupVM(); // mapping properties
-                signupVM.FirstName = signup.FirstName;
-                signupVM.LastName = signup.LastName;
-                signupVM.EmailAddress = signup.EmailAddress;
-                signupVMS.Add(signupVM);
-            }
 
-            return View(signupVMS); //passing list to the view
+                return View(signupVMS); //passing list to the view
+            }
+                
+                
+                //populated a list of newsletter signups
+                //    string querystring =@"SELECT Id, FirstName, LastName, EmailAddress, SocialSecurityNumber from SignUps";
+
+                //    List<NewsletterSignUp> signups = new List<NewsletterSignUp>(); // initialize as empty list
+
+                //using (SqlConnection connection = new SqlConnection(connectionString)) //open a connection and wrap it a using statement 
+                //{
+                //    SqlCommand command = new SqlCommand(querystring, connection); //generate a command
+
+                //    connection.Open(); //open connection
+
+                //    SqlDataReader reader = command.ExecuteReader(); //create a datareader
+                //    while (reader.Read()) 
+                //    {       //ADO.net logic
+                //        var signup = new NewsletterSignUp(); // declaring a new data type
+                //        signup.Id = Convert.ToInt32(reader["Id"]); //assign properties values coming from database
+                //        signup.FirstName = reader["FirstName"].ToString(); //things that come from database are a different datatype  
+                //        signup.LastName = reader["LastName"].ToString();
+                //        signup.EmailAddress = reader["EmailAddress"].ToString();
+                //        signup.SocialSecurityNumber = reader["SocialSecurityNumber"].ToString();
+                //        signups.Add(signup);  //adding the list
+
+
+                //    }
+                // }
+           
         }
     }
 }
